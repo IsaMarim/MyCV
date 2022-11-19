@@ -17,7 +17,7 @@ In these repository are the projects and certificates cited on my CV.
 ### **2020**
 &nbsp;
 
-- Scrum Certificate: 
+- Scrum Certificate: [Course](https://onedrive.live.com/edit.aspx?resid=83EFDF5B145D00BA!9597&authkey=!AOl3ou0yj_Exevw)
 
 ![Certificate](Certificates/Certificate_Scrum.png)
 
@@ -26,7 +26,7 @@ In these repository are the projects and certificates cited on my CV.
 ### **2019**
 &nbsp;
 
-- Data Scientist Certificate: 
+- Data Scientist Certificate: [Course](https://onedrive.live.com/edit.aspx?resid=83EFDF5B145D00BA!9597&authkey=!AOl3ou0yj_Exevw)
 
 ![Certificate](Certificates/Certificate_Data_Scientist_with_R_and_Python.png)
 &nbsp;
