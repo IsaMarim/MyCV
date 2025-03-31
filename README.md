@@ -1,6 +1,6 @@
 # **MyCV**
 
-In these repository are the projects and certificates cited on my CV.  
+This repository contains the projects and certificates mentioned in my CV.
 &nbsp;
 
 ## **Time line**
