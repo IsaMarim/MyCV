@@ -6,7 +6,25 @@ In these repository are the projects and certificates cited on my CV.
 ## **Time line**
 &nbsp;
 
+### **2024**
+&nbsp;
 
+- EY Analytics - Data Integration - Bronze Learning: [Certificate](https://www.credly.com/badges/bc69f10e-2634-46fc-96bf-57f04e35145d/linked_in?t=scuwmi)
+- EY Analytics - Data Visualization - Bronze Learning: [Certificate](https://www.credly.com/badges/bc69f10e-2634-46fc-96bf-57f04e35145d/linked_in?t=scuwmi)
+
+
+&nbsp;
+### **2023**
+&nbsp;
+
+- Microsoft Certified: Azure Data Fundamentals: [Certificate](https://www.efset.org/cert/kxkNgE)
+  - Credential ID: 9229B0DFAC839CE0
+  - Número da certificação: 4172BD-0GF91A
+
+![Certificate](Certificates/DP900_Certificate.png)
+
+
+&nbsp;
 ### **2021**
 &nbsp;
 
